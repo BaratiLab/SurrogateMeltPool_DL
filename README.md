@@ -10,7 +10,6 @@ Install the required packages. It is recommended to proceed in a new environment
 ```
 conda create --name meltpool_dl python=3.7
 conda activate meltpool_dl
-```
 pip install -r requirements.txt
 ```
 ## Datasets
