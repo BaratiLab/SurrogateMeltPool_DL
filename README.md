@@ -6,7 +6,10 @@ Clone the repository on your local machine
 ```
 git clone https://github.com/BaratiLab/SurrogateMeltPool_DL.git
 ```
-Install the required packages. It is recommended to proceed in a new environment.
+Install the required packages. It is recommended to proceed in a new environment first. You can do that using
+```
+conda create --name meltpool_dl python=3.7
+conda activate meltpool_dl
 ```
 pip install -r requirements.txt
 ```
