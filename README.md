@@ -16,7 +16,7 @@ You can find the first dataset (Ti64-5 in the paper) [here](https://drive.google
 Please download the zip file and unzip in  the directory Datasets/Ti64-5_cropped/
 
 ## Using the trained model
-Open thejupyter notebook Main.ipynb and follow the instructions. You can try the model for samples from the dataset (if you have already downloaded it) and also try the model for an arbitrary input.
+Open the jupyter notebook Main.ipynb and follow the instructions. You can try the model for samples from the dataset (if you have already downloaded it) and also try the model for an arbitrary input.
 
 ## Training your own model
 You can train the model by running
