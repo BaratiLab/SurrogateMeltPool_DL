@@ -19,7 +19,7 @@ Please download the zip file and unzip in  the directory Datasets/Ti64-5_cropped
 Open the jupyter notebook Main.ipynb and follow the instructions. You can try the model for samples from the dataset (if you have already downloaded it) and also try the model for an arbitrary input.
 
 ## Training your own model
-You can train the model by running
+You can train a new model by running
 ```
 python Train.py
 ```
